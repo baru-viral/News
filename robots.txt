@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://baru-viral.github.io/News/sitemap.xml
